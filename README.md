@@ -35,10 +35,10 @@ This project is a **File Management System** developed in C++ that allows admini
 4. **Customer Functionalities**  
    - View products, add to cart, and generate an invoice.
 
-## Project Structure
-├── main.cpp       # Main source file
-├── Products.txt   # Stores product data
-├── README.md      # Project documentation
+## Project Structure**
+- ├── main.cpp       # Main source file
+- ├── Products.txt   # Stores product data
+- ├── README.md      # Project documentation
 
 ## Future Enhancements
 - Add database support for better scalability.
